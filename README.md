@@ -67,11 +67,19 @@ Time Converter App/
 
 # 🚀 How to Run
 
-1. Clone repo:
+### 1️⃣ Clone the repository
+```bash
 git clone https://github.com/ashish-modak-22/Kotlin_TimeConverterApp.git
+```
 
-2. Open in Android Studio
-3. Click Run ▶
+### 2️⃣ Open in Android Studio
+- Open Android Studio
+- Click on **Open Project**
+- Select the cloned folder
+
+### 3️⃣ Run the app
+- Click ▶ Run button
+- Or use emulator / physical device
 
 ---
 
@@ -88,7 +96,8 @@ git clone https://github.com/ashish-modak-22/Kotlin_TimeConverterApp.git
 
 # 👨‍💻 Author
 
-Ashish Modak    
+Ashish Modak  
+First Year Engineering Student  
 Learning Android Development (Kotlin + XML)
 
 ---
