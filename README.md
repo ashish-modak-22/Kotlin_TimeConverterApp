@@ -36,9 +36,9 @@ Output:
 - Gradle
 
 ---
-
 # 📂 Project Structure
 
+```
 Time Converter App/
 │
 ├── app/
@@ -55,6 +55,8 @@ Time Converter App/
 │   │   │   │   │   ├── colors.xml
 │   │   │   │   │   └── themes.xml
 │   │   │
+│   │   └── AndroidManifest.xml
+│   │
 │   ├── build.gradle.kts
 │
 ├── gradle/
@@ -62,8 +64,7 @@ Time Converter App/
 ├── gradlew.bat
 ├── settings.gradle.kts
 └── README.md
-
----
+```
 
 # 🚀 How to Run
 
