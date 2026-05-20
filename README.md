@@ -98,7 +98,6 @@ git clone https://github.com/ashish-modak-22/Kotlin_TimeConverterApp.git
 # 👨‍💻 Author
 
 Ashish Modak  
-First Year Engineering Student  
 Learning Android Development (Kotlin + XML)
 
 ---
